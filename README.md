@@ -40,7 +40,7 @@ npm link
 $ afa-cli add
 ```
 ```
- /*  your template's name */
+ /*  模板名称 */
 Template name: koa2-mysql
 
  /* 你的模板地址 */
