@@ -1,0 +1,8 @@
+{
+  "tpl": {
+    "base": {
+      "url": "https://github.com/afacode/koa2-mysql-demo.git",
+      "branch": "master"
+    }
+  }
+}

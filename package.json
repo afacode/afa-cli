@@ -1,0 +1,38 @@
+{
+  "name": "afa-cli",
+  "version": "0.0.1",
+  "description": "自定义前端脚手架工具 afa-cli",
+  "main": "index.js",
+  "bin": {
+    "my-cli": "bin/env"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.19.0",
+    "handlebars": "^4.0.12",
+    "inquirer": "^6.2.0",
+    "metalsmith": "^2.3.0",
+    "ora": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afacode/afa-cli.git"
+  },
+  "keywords": [
+    "afa-cli",
+    "cli"
+  ],
+  "author": "afacode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afacode/afa-cli/issues"
+  },
+  "homepage": "https://github.com/afacode/afa-cli#readme"
+}
